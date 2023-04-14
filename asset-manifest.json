@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/news365/static/css/main.073c9b0a.css",
+    "main.js": "/news365/static/js/main.e81cbceb.js",
+    "static/js/787.22458a80.chunk.js": "/news365/static/js/787.22458a80.chunk.js",
+    "static/media/logo2.png": "/news365/static/media/logo2.11b30ec8f8007a5928e7.png",
+    "static/media/defaultimg.png": "/news365/static/media/defaultimg.c1fcb1d877ffd2c4a187.png",
+    "index.html": "/news365/index.html",
+    "main.073c9b0a.css.map": "/news365/static/css/main.073c9b0a.css.map",
+    "main.e81cbceb.js.map": "/news365/static/js/main.e81cbceb.js.map",
+    "787.22458a80.chunk.js.map": "/news365/static/js/787.22458a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e81cbceb.js"
+  ]
+}
